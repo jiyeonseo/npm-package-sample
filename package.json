@@ -1,0 +1,11 @@
+{
+  "name": "npm-package-sample-cheesecheese",
+  "version": "1.0.1",
+  "description": "this is hello world npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiyeonseo",
+  "license": "ISC"
+}
